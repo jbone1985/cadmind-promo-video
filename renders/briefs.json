@@ -1,0 +1,801 @@
+{
+  "bench_psu": {
+    "project_id": "617d38f732aa",
+    "name": "Bench power supply case",
+    "brief": "I'm getting into electronics as a hobby and I want a small adjustable power supply for my desk, to power the things I build. I've seen people build one with one of those little modules with a colour screen where you set the volts and amps with buttons (I think the popular one is called DPS5005), powered from a laptop charger, so there's no mains voltage inside the box. I'd like to do that.\n\nIt needs a box: the screen on the front, tilted back a bit so I can read it from my chair, red and black sockets for my test leads (the ones with banana plugs), and an on/off switch. The laptop charger plugs in at the back. It should not overheat when I use it at full power.\n\nI have a Bambu A1 mini printer, which is quite small, so the box may need to be in several pieces.",
+    "prompt": "I'm getting into electronics as a hobby and I want a small adjustable power supply for my desk, to power the things I build. I've seen people build one with one of those little modules with a colour screen where you set the volts and amps with buttons (I think the popular one is called DPS5005), powered from a laptop charger, so there's no mains voltage inside the box. I'd like to do that.\n\nIt needs a box: the screen on the front, tilted back a bit so I can read it from my chair, red and black sockets for my test leads (the ones with banana plugs), and an on/off switch. The laptop charger plugs in at the back. It should not overheat when I use it at full power.\n\nI have a Bambu A1 mini printer, which is quite small, so the box may need to be in several pieces.",
+    "checks_met": 7,
+    "checks_total": 7,
+    "owner_display_name": "",
+    "gallery_url": "https://app.cadmind.ai/gallery/617d38f732aa",
+    "shown_job_id": "3e93ebd98401",
+    "renders": [
+      {
+        "file": "bench_psu_1.png",
+        "original_name": "renders/base-iso.png",
+        "source_url": "https://app.cadmind.ai/api/gallery/617d38f732aa/3e93ebd98401/watt/renders/base-iso.png",
+        "bytes": 10343,
+        "content_type": "image/png",
+        "width": 1008,
+        "height": 756,
+        "mode": "RGB"
+      },
+      {
+        "file": "bench_psu_2.png",
+        "original_name": "renders/case-iso.png",
+        "source_url": "https://app.cadmind.ai/api/gallery/617d38f732aa/3e93ebd98401/watt/renders/case-iso.png",
+        "bytes": 18026,
+        "content_type": "image/png",
+        "width": 1008,
+        "height": 756,
+        "mode": "RGB"
+      },
+      {
+        "file": "bench_psu_3.png",
+        "original_name": "renders/case-section.png",
+        "source_url": "https://app.cadmind.ai/api/gallery/617d38f732aa/3e93ebd98401/watt/renders/case-section.png",
+        "bytes": 8579,
+        "content_type": "image/png",
+        "width": 1008,
+        "height": 756,
+        "mode": "RGB"
+      }
+    ]
+  },
+  "mini_itx": {
+    "project_id": "f1665b72a7b4",
+    "name": "Mini ITX",
+    "brief": "Mini ITX pc case adaptable to different boards, fits GPUs up to 300 mm long, with airflow for a 140 mm fan or fans. Modern design, no sharp edges. Insert \"CADmind\" text somewhere in a small font. Make sure it has the place for the PSU too and all modern ports.",
+    "prompt": "Mini ITX pc case adaptable to different boards, fits GPUs up to 300 mm long, with airflow for a 140 mm fan or fans. Modern design, no sharp edges. Insert \"CADmind\" text somewhere in a small font. Make sure it has the place for the PSU too and all modern ports.",
+    "checks_met": 9,
+    "checks_total": 9,
+    "owner_display_name": "CADmind",
+    "gallery_url": "https://app.cadmind.ai/gallery/f1665b72a7b4",
+    "shown_job_id": "0672dc25a06c",
+    "renders": [
+      {
+        "file": "mini_itx_1.png",
+        "original_name": "renders/overview.png",
+        "source_url": "https://app.cadmind.ai/api/gallery/f1665b72a7b4/0672dc25a06c/watt/renders/overview.png",
+        "bytes": 22300,
+        "content_type": "image/png",
+        "width": 1064,
+        "height": 1064,
+        "mode": "RGB"
+      },
+      {
+        "file": "mini_itx_2.png",
+        "original_name": "renders/case_iso.png",
+        "source_url": "https://app.cadmind.ai/api/gallery/f1665b72a7b4/0672dc25a06c/watt/renders/case_iso.png",
+        "bytes": 40400,
+        "content_type": "image/png",
+        "width": 1484,
+        "height": 1064,
+        "mode": "RGB"
+      },
+      {
+        "file": "mini_itx_3.png",
+        "original_name": "renders/case_iso_back.png",
+        "source_url": "https://app.cadmind.ai/api/gallery/f1665b72a7b4/0672dc25a06c/watt/renders/case_iso_back.png",
+        "bytes": 50747,
+        "content_type": "image/png",
+        "width": 1484,
+        "height": 1064,
+        "mode": "RGB"
+      },
+      {
+        "file": "mini_itx_4.png",
+        "original_name": "renders/front_shell-iso.png",
+        "source_url": "https://app.cadmind.ai/api/gallery/f1665b72a7b4/0672dc25a06c/watt/renders/front_shell-iso.png",
+        "bytes": 21771,
+        "content_type": "image/png",
+        "width": 1008,
+        "height": 756,
+        "mode": "RGB"
+      },
+      {
+        "file": "mini_itx_5.png",
+        "original_name": "renders/rear_shell-iso.png",
+        "source_url": "https://app.cadmind.ai/api/gallery/f1665b72a7b4/0672dc25a06c/watt/renders/rear_shell-iso.png",
+        "bytes": 14694,
+        "content_type": "image/png",
+        "width": 1008,
+        "height": 756,
+        "mode": "RGB"
+      },
+      {
+        "file": "mini_itx_6.png",
+        "original_name": "renders/side_cup_front-iso.png",
+        "source_url": "https://app.cadmind.ai/api/gallery/f1665b72a7b4/0672dc25a06c/watt/renders/side_cup_front-iso.png",
+        "bytes": 18571,
+        "content_type": "image/png",
+        "width": 1008,
+        "height": 756,
+        "mode": "RGB"
+      },
+      {
+        "file": "mini_itx_7.png",
+        "original_name": "renders/side_cup_rear-iso.png",
+        "source_url": "https://app.cadmind.ai/api/gallery/f1665b72a7b4/0672dc25a06c/watt/renders/side_cup_rear-iso.png",
+        "bytes": 19532,
+        "content_type": "image/png",
+        "width": 1008,
+        "height": 756,
+        "mode": "RGB"
+      },
+      {
+        "file": "mini_itx_8.png",
+        "original_name": "renders/front_shell-section.png",
+        "source_url": "https://app.cadmind.ai/api/gallery/f1665b72a7b4/0672dc25a06c/watt/renders/front_shell-section.png",
+        "bytes": 13910,
+        "content_type": "image/png",
+        "width": 1008,
+        "height": 756,
+        "mode": "RGB"
+      },
+      {
+        "file": "mini_itx_9.png",
+        "original_name": "renders/rear_shell-section.png",
+        "source_url": "https://app.cadmind.ai/api/gallery/f1665b72a7b4/0672dc25a06c/watt/renders/rear_shell-section.png",
+        "bytes": 13086,
+        "content_type": "image/png",
+        "width": 1008,
+        "height": 756,
+        "mode": "RGB"
+      },
+      {
+        "file": "mini_itx_10.png",
+        "original_name": "renders/side_cup_front-section.png",
+        "source_url": "https://app.cadmind.ai/api/gallery/f1665b72a7b4/0672dc25a06c/watt/renders/side_cup_front-section.png",
+        "bytes": 12631,
+        "content_type": "image/png",
+        "width": 1008,
+        "height": 756,
+        "mode": "RGB"
+      },
+      {
+        "file": "mini_itx_11.png",
+        "original_name": "renders/side_cup_rear-section.png",
+        "source_url": "https://app.cadmind.ai/api/gallery/f1665b72a7b4/0672dc25a06c/watt/renders/side_cup_rear-section.png",
+        "bytes": 14138,
+        "content_type": "image/png",
+        "width": 1008,
+        "height": 756,
+        "mode": "RGB"
+      }
+    ]
+  },
+  "pixel10": {
+    "project_id": "6e43456732a1",
+    "name": "Pixel 10 phone case",
+    "brief": "A phone case, held by a press-fit lip for my pixel 10 (exact model: Google Pixel 10, picked from gsmarena.com), about 152.8 x 72 x 8.6 mm height x width x thickness (found online at gsmarena.com, not measured). Pay specific attention to the camera on the back so it fits perfectly. On the back I also expect inscribed \"CADmind\" in a small font.\n\nMake sure the phone case protects the phone from all sides from fall damage while not being overly thick. No sharp edges.",
+    "prompt": "A phone case, held by a press-fit lip for my pixel 10 (exact model: Google Pixel 10, picked from gsmarena.com), about 152.8 x 72 x 8.6 mm height x width x thickness (found online at gsmarena.com, not measured). Pay specific attention to the camera on the back so it fits perfectly. On the back I also expect inscribed \"CADmind\" in a small font.\n\nMake sure the phone case protects the phone from all sides from fall damage while not being overly thick. No sharp edges.",
+    "checks_met": 8,
+    "checks_total": 8,
+    "owner_display_name": "CADmind",
+    "gallery_url": "https://app.cadmind.ai/gallery/6e43456732a1",
+    "shown_job_id": "a5589bfdc59c",
+    "renders": [
+      {
+        "file": "pixel10_1.png",
+        "original_name": "renders/case-iso.png",
+        "source_url": "https://app.cadmind.ai/api/gallery/6e43456732a1/a5589bfdc59c/watt/renders/case-iso.png",
+        "bytes": 17978,
+        "content_type": "image/png",
+        "width": 1008,
+        "height": 756,
+        "mode": "RGB"
+      },
+      {
+        "file": "pixel10_2.png",
+        "original_name": "renders/case-section.png",
+        "source_url": "https://app.cadmind.ai/api/gallery/6e43456732a1/a5589bfdc59c/watt/renders/case-section.png",
+        "bytes": 13094,
+        "content_type": "image/png",
+        "width": 1008,
+        "height": 756,
+        "mode": "RGB"
+      }
+    ]
+  },
+  "iphone_duo": {
+    "project_id": "d0eb40b8adbd",
+    "name": "iPhone Duo phone case",
+    "brief": "A simple iPhone Duo phone case with integrated stand mode when it's opened. Insert the CADmind trademark on there too",
+    "prompt": "A simple iPhone Duo phone case with integrated stand mode when it's opened. Insert the CADmind trademark on there too",
+    "checks_met": 5,
+    "checks_total": 5,
+    "owner_display_name": "CADmind",
+    "gallery_url": "https://app.cadmind.ai/gallery/d0eb40b8adbd",
+    "shown_job_id": "043977f7144b",
+    "renders": [
+      {
+        "file": "iphone_duo_1.png",
+        "original_name": "renders/hinge_pin-iso.png",
+        "source_url": "https://app.cadmind.ai/api/gallery/d0eb40b8adbd/043977f7144b/watt/renders/hinge_pin-iso.png",
+        "bytes": 10282,
+        "content_type": "image/png",
+        "width": 1008,
+        "height": 756,
+        "mode": "RGB"
+      },
+      {
+        "file": "iphone_duo_2.png",
+        "original_name": "renders/leg-iso.png",
+        "source_url": "https://app.cadmind.ai/api/gallery/d0eb40b8adbd/043977f7144b/watt/renders/leg-iso.png",
+        "bytes": 11801,
+        "content_type": "image/png",
+        "width": 1008,
+        "height": 756,
+        "mode": "RGB"
+      },
+      {
+        "file": "iphone_duo_3.png",
+        "original_name": "renders/shell_cam-iso.png",
+        "source_url": "https://app.cadmind.ai/api/gallery/d0eb40b8adbd/043977f7144b/watt/renders/shell_cam-iso.png",
+        "bytes": 14180,
+        "content_type": "image/png",
+        "width": 1008,
+        "height": 756,
+        "mode": "RGB"
+      },
+      {
+        "file": "iphone_duo_4.png",
+        "original_name": "renders/shell_disp-iso.png",
+        "source_url": "https://app.cadmind.ai/api/gallery/d0eb40b8adbd/043977f7144b/watt/renders/shell_disp-iso.png",
+        "bytes": 11425,
+        "content_type": "image/png",
+        "width": 1008,
+        "height": 756,
+        "mode": "RGB"
+      },
+      {
+        "file": "iphone_duo_5.png",
+        "original_name": "renders/leg-section.png",
+        "source_url": "https://app.cadmind.ai/api/gallery/d0eb40b8adbd/043977f7144b/watt/renders/leg-section.png",
+        "bytes": 11460,
+        "content_type": "image/png",
+        "width": 1008,
+        "height": 756,
+        "mode": "RGB"
+      },
+      {
+        "file": "iphone_duo_6.png",
+        "original_name": "renders/shell_cam-section.png",
+        "source_url": "https://app.cadmind.ai/api/gallery/d0eb40b8adbd/043977f7144b/watt/renders/shell_cam-section.png",
+        "bytes": 9089,
+        "content_type": "image/png",
+        "width": 1008,
+        "height": 756,
+        "mode": "RGB"
+      },
+      {
+        "file": "iphone_duo_7.png",
+        "original_name": "renders/shell_disp-section.png",
+        "source_url": "https://app.cadmind.ai/api/gallery/d0eb40b8adbd/043977f7144b/watt/renders/shell_disp-section.png",
+        "bytes": 7074,
+        "content_type": "image/png",
+        "width": 1008,
+        "height": 756,
+        "mode": "RGB"
+      }
+    ]
+  },
+  "board_enclosure": {
+    "project_id": "291a88fca708",
+    "name": "case",
+    "brief": "Design a two-part enclosure for a small electronics board, for FDM 3D printing.\n\nThe board: 70 mm x 50 mm, 1.6 mm thick, with four mounting holes (M3) placed 3.5 mm in from each corner. Tallest component on top: 12 mm. A USB-C port on one short edge, centred, 9 mm wide and 3.5 mm tall, whose centre sits 4 mm above the board's top surface.\n\nRequirements:\n- A base and a lid that snap or screw together; no glue.\n- The board sits on four standoffs inside the base, held by M3 screws.\n- A cut-out in the wall for the USB-C port, with 0.5 mm clearance all round.\n- Ventilation slots on the lid: at least 6 slots, each 2 mm wide, none longer than 20 mm.\n- Wall thickness 2.4 mm. Outer corner radius at least 3 mm.\n- Clearance between the mating parts 0.3 mm per side, so the lid fits without sanding.\n- Each part printable without support material, in PLA, on a 0.4 mm nozzle.",
+    "prompt": "Design a two-part enclosure for a small electronics board, for FDM 3D printing.\n\nThe board: 70 mm x 50 mm, 1.6 mm thick, with four mounting holes (M3) placed 3.5 mm in from each corner. Tallest component on top: 12 mm. A USB-C port on one short edge, centred, 9 mm wide and 3.5 mm tall, whose centre sits 4 mm above the board's top surface.\n\nRequirements:\n- A base and a lid that snap or screw together; no glue.\n- The board sits on four standoffs inside the base, held by M3 screws.\n- A cut-out in the wall for the USB-C port, with 0.5 mm clearance all round.\n- Ventilation slots on the lid: at least 6 slots, each 2 mm wide, none longer than 20 mm.\n- Wall thickness 2.4 mm. Outer corner radius at least 3 mm.\n- Clearance between the mating parts 0.3 mm per side, so the lid fits without sanding.\n- Each part printable without support material, in PLA, on a 0.4 mm nozzle.",
+    "checks_met": 8,
+    "checks_total": 8,
+    "owner_display_name": "CADmind",
+    "gallery_url": "https://app.cadmind.ai/gallery/291a88fca708",
+    "shown_job_id": "8bd7ef4b6e5f",
+    "renders": [
+      {
+        "file": "board_enclosure_1.png",
+        "original_name": "renders/base-iso.png",
+        "source_url": "https://app.cadmind.ai/api/gallery/291a88fca708/8bd7ef4b6e5f/watt/renders/base-iso.png",
+        "bytes": 15976,
+        "content_type": "image/png",
+        "width": 1008,
+        "height": 756,
+        "mode": "RGB"
+      },
+      {
+        "file": "board_enclosure_2.png",
+        "original_name": "renders/lid-iso.png",
+        "source_url": "https://app.cadmind.ai/api/gallery/291a88fca708/8bd7ef4b6e5f/watt/renders/lid-iso.png",
+        "bytes": 19194,
+        "content_type": "image/png",
+        "width": 1008,
+        "height": 756,
+        "mode": "RGB"
+      },
+      {
+        "file": "board_enclosure_3.png",
+        "original_name": "renders/base-section.png",
+        "source_url": "https://app.cadmind.ai/api/gallery/291a88fca708/8bd7ef4b6e5f/watt/renders/base-section.png",
+        "bytes": 11836,
+        "content_type": "image/png",
+        "width": 1008,
+        "height": 756,
+        "mode": "RGB"
+      },
+      {
+        "file": "board_enclosure_4.png",
+        "original_name": "renders/lid-section.png",
+        "source_url": "https://app.cadmind.ai/api/gallery/291a88fca708/8bd7ef4b6e5f/watt/renders/lid-section.png",
+        "bytes": 13529,
+        "content_type": "image/png",
+        "width": 1008,
+        "height": 756,
+        "mode": "RGB"
+      }
+    ]
+  },
+  "pvc_dual_cap": {
+    "project_id": "88812a45ea5f",
+    "name": "Dual cap",
+    "brief": "A system to close a pvc pipe of diameter 50mm on both ends. One end must be easy to unscrew.",
+    "prompt": "A system to close a pvc pipe of diameter 50mm on both ends. One end must be easy to unscrew.",
+    "checks_met": 9,
+    "checks_total": 9,
+    "owner_display_name": "CADmind",
+    "gallery_url": "https://app.cadmind.ai/gallery/88812a45ea5f",
+    "shown_job_id": "95090f684bd4",
+    "renders": [
+      {
+        "file": "pvc_dual_cap_1.png",
+        "original_name": "renders/iso.png",
+        "source_url": "https://app.cadmind.ai/api/gallery/88812a45ea5f/95090f684bd4/watt/renders/iso.png",
+        "bytes": 13239,
+        "content_type": "image/png",
+        "width": 1008,
+        "height": 756,
+        "mode": "RGB"
+      },
+      {
+        "file": "pvc_dual_cap_2.png",
+        "original_name": "renders/anchor-iso.png",
+        "source_url": "https://app.cadmind.ai/api/gallery/88812a45ea5f/95090f684bd4/watt/renders/anchor-iso.png",
+        "bytes": 14790,
+        "content_type": "image/png",
+        "width": 1008,
+        "height": 756,
+        "mode": "RGB"
+      },
+      {
+        "file": "pvc_dual_cap_3.png",
+        "original_name": "renders/cap_a-iso.png",
+        "source_url": "https://app.cadmind.ai/api/gallery/88812a45ea5f/95090f684bd4/watt/renders/cap_a-iso.png",
+        "bytes": 16398,
+        "content_type": "image/png",
+        "width": 1008,
+        "height": 756,
+        "mode": "RGB"
+      },
+      {
+        "file": "pvc_dual_cap_4.png",
+        "original_name": "renders/cap_b-iso.png",
+        "source_url": "https://app.cadmind.ai/api/gallery/88812a45ea5f/95090f684bd4/watt/renders/cap_b-iso.png",
+        "bytes": 12639,
+        "content_type": "image/png",
+        "width": 1008,
+        "height": 756,
+        "mode": "RGB"
+      },
+      {
+        "file": "pvc_dual_cap_5.png",
+        "original_name": "renders/collar_b-iso.png",
+        "source_url": "https://app.cadmind.ai/api/gallery/88812a45ea5f/95090f684bd4/watt/renders/collar_b-iso.png",
+        "bytes": 27028,
+        "content_type": "image/png",
+        "width": 1008,
+        "height": 756,
+        "mode": "RGB"
+      },
+      {
+        "file": "pvc_dual_cap_6.png",
+        "original_name": "renders/lid-iso.png",
+        "source_url": "https://app.cadmind.ai/api/gallery/88812a45ea5f/95090f684bd4/watt/renders/lid-iso.png",
+        "bytes": 11068,
+        "content_type": "image/png",
+        "width": 1008,
+        "height": 756,
+        "mode": "RGB"
+      },
+      {
+        "file": "pvc_dual_cap_7.png",
+        "original_name": "renders/ring-iso.png",
+        "source_url": "https://app.cadmind.ai/api/gallery/88812a45ea5f/95090f684bd4/watt/renders/ring-iso.png",
+        "bytes": 13524,
+        "content_type": "image/png",
+        "width": 1008,
+        "height": 756,
+        "mode": "RGB"
+      },
+      {
+        "file": "pvc_dual_cap_8.png",
+        "original_name": "renders/anchor-section.png",
+        "source_url": "https://app.cadmind.ai/api/gallery/88812a45ea5f/95090f684bd4/watt/renders/anchor-section.png",
+        "bytes": 13123,
+        "content_type": "image/png",
+        "width": 1008,
+        "height": 756,
+        "mode": "RGB"
+      },
+      {
+        "file": "pvc_dual_cap_9.png",
+        "original_name": "renders/cap_a-section.png",
+        "source_url": "https://app.cadmind.ai/api/gallery/88812a45ea5f/95090f684bd4/watt/renders/cap_a-section.png",
+        "bytes": 12287,
+        "content_type": "image/png",
+        "width": 1008,
+        "height": 756,
+        "mode": "RGB"
+      },
+      {
+        "file": "pvc_dual_cap_10.png",
+        "original_name": "renders/cap_b-section.png",
+        "source_url": "https://app.cadmind.ai/api/gallery/88812a45ea5f/95090f684bd4/watt/renders/cap_b-section.png",
+        "bytes": 13520,
+        "content_type": "image/png",
+        "width": 1008,
+        "height": 756,
+        "mode": "RGB"
+      },
+      {
+        "file": "pvc_dual_cap_11.png",
+        "original_name": "renders/collar_b-section.png",
+        "source_url": "https://app.cadmind.ai/api/gallery/88812a45ea5f/95090f684bd4/watt/renders/collar_b-section.png",
+        "bytes": 15754,
+        "content_type": "image/png",
+        "width": 1008,
+        "height": 756,
+        "mode": "RGB"
+      },
+      {
+        "file": "pvc_dual_cap_12.png",
+        "original_name": "renders/lid-section.png",
+        "source_url": "https://app.cadmind.ai/api/gallery/88812a45ea5f/95090f684bd4/watt/renders/lid-section.png",
+        "bytes": 10246,
+        "content_type": "image/png",
+        "width": 1008,
+        "height": 756,
+        "mode": "RGB"
+      },
+      {
+        "file": "pvc_dual_cap_13.png",
+        "original_name": "renders/ring-section.png",
+        "source_url": "https://app.cadmind.ai/api/gallery/88812a45ea5f/95090f684bd4/watt/renders/ring-section.png",
+        "bytes": 10516,
+        "content_type": "image/png",
+        "width": 1008,
+        "height": 756,
+        "mode": "RGB"
+      }
+    ]
+  },
+  "desk_organizer": {
+    "project_id": "d59c70319ad4",
+    "name": "Modular Desk Organizer",
+    "brief": "Design a modular 3D-printable desk organizer that keeps a workspace clean and organized.\n\nThe organizer should include:\n- A smartphone stand with a 15-degree viewing angle, fitting phones up to 85 mm wide.\n- A pen holder with 5 cylindrical compartments, each 12 mm in diameter.\n- A small tray for keys, USB drives and other accessories.\n- A dedicated cable-management channel at the back.\n\nDimensions:\n- Overall width: 200 mm\n- Depth: 120 mm\n- Height: 85 mm maximum.\n\nDesign requirements:\n- Modular construction with detachable sections.\n- Rounded edges and a modern minimalist aesthetic.\n- No glue required; use snap-fit connections.\n- Stable flat bottom with rubber-foot recesses.\n- Designed for standard FDM 3D printing using PLA.\n- Avoid unnecessary support structures.\n- Minimum wall thickness of 2 mm.\n\nDeliver individual STL files for each component, a complete assembled 3D model, a bill of materials and assembly instructions.",
+    "prompt": "Design a modular 3D-printable desk organizer that keeps a workspace clean and organized.\n\nThe organizer should include:\n- A smartphone stand with a 15-degree viewing angle, fitting phones up to 85 mm wide.\n- A pen holder with 5 cylindrical compartments, each 12 mm in diameter.\n- A small tray for keys, USB drives and other accessories.\n- A dedicated cable-management channel at the back.\n\nDimensions:\n- Overall width: 200 mm\n- Depth: 120 mm\n- Height: 85 mm maximum.\n\nDesign requirements:\n- Modular construction with detachable sections.\n- Rounded edges and a modern minimalist aesthetic.\n- No glue required; use snap-fit connections.\n- Stable flat bottom with rubber-foot recesses.\n- Designed for standard FDM 3D printing using PLA.\n- Avoid unnecessary support structures.\n- Minimum wall thickness of 2 mm.\n\nDeliver individual STL files for each component, a complete assembled 3D model, a bill of materials and assembly instructions.",
+    "checks_met": 16,
+    "checks_total": 16,
+    "owner_display_name": "Mattias Ronge",
+    "gallery_url": "https://app.cadmind.ai/gallery/d59c70319ad4",
+    "shown_job_id": "b33aa3e37b94",
+    "renders": [
+      {
+        "file": "desk_organizer_1.png",
+        "original_name": "renders/base-iso.png",
+        "source_url": "https://app.cadmind.ai/api/gallery/d59c70319ad4/b33aa3e37b94/watt/renders/base-iso.png",
+        "bytes": 18853,
+        "content_type": "image/png",
+        "width": 1008,
+        "height": 756,
+        "mode": "RGB"
+      },
+      {
+        "file": "desk_organizer_2.png",
+        "original_name": "renders/pens-iso.png",
+        "source_url": "https://app.cadmind.ai/api/gallery/d59c70319ad4/b33aa3e37b94/watt/renders/pens-iso.png",
+        "bytes": 17670,
+        "content_type": "image/png",
+        "width": 1008,
+        "height": 756,
+        "mode": "RGB"
+      },
+      {
+        "file": "desk_organizer_3.png",
+        "original_name": "renders/stand-iso.png",
+        "source_url": "https://app.cadmind.ai/api/gallery/d59c70319ad4/b33aa3e37b94/watt/renders/stand-iso.png",
+        "bytes": 16948,
+        "content_type": "image/png",
+        "width": 1008,
+        "height": 756,
+        "mode": "RGB"
+      },
+      {
+        "file": "desk_organizer_4.png",
+        "original_name": "renders/tray-iso.png",
+        "source_url": "https://app.cadmind.ai/api/gallery/d59c70319ad4/b33aa3e37b94/watt/renders/tray-iso.png",
+        "bytes": 16472,
+        "content_type": "image/png",
+        "width": 1008,
+        "height": 756,
+        "mode": "RGB"
+      },
+      {
+        "file": "desk_organizer_5.png",
+        "original_name": "renders/base-section.png",
+        "source_url": "https://app.cadmind.ai/api/gallery/d59c70319ad4/b33aa3e37b94/watt/renders/base-section.png",
+        "bytes": 12133,
+        "content_type": "image/png",
+        "width": 1008,
+        "height": 756,
+        "mode": "RGB"
+      },
+      {
+        "file": "desk_organizer_6.png",
+        "original_name": "renders/pens-section.png",
+        "source_url": "https://app.cadmind.ai/api/gallery/d59c70319ad4/b33aa3e37b94/watt/renders/pens-section.png",
+        "bytes": 9423,
+        "content_type": "image/png",
+        "width": 1008,
+        "height": 756,
+        "mode": "RGB"
+      },
+      {
+        "file": "desk_organizer_7.png",
+        "original_name": "renders/stand-section.png",
+        "source_url": "https://app.cadmind.ai/api/gallery/d59c70319ad4/b33aa3e37b94/watt/renders/stand-section.png",
+        "bytes": 16948,
+        "content_type": "image/png",
+        "width": 1008,
+        "height": 756,
+        "mode": "RGB"
+      }
+    ]
+  },
+  "tao_keychain": {
+    "project_id": "1138f4851823",
+    "name": "TAO Chain",
+    "brief": "Keychain with a raised Bittensor τ symbol, 40 mm diameter, 4 mm thick, 5 mm hole for a key ring, printable without supports.",
+    "prompt": "Keychain with a raised Bittensor τ symbol, 40 mm diameter, 4 mm thick, 5 mm hole for a key ring, printable without supports.",
+    "checks_met": 4,
+    "checks_total": 4,
+    "owner_display_name": "Rainer Zufall",
+    "gallery_url": "https://app.cadmind.ai/gallery/1138f4851823",
+    "shown_job_id": "b0816876a932",
+    "renders": [
+      {
+        "file": "tao_keychain_1.png",
+        "original_name": "renders/tag-iso.png",
+        "source_url": "https://app.cadmind.ai/api/gallery/1138f4851823/b0816876a932/watt/renders/tag-iso.png",
+        "bytes": 19109,
+        "content_type": "image/png",
+        "width": 1008,
+        "height": 756,
+        "mode": "RGB"
+      },
+      {
+        "file": "tao_keychain_2.png",
+        "original_name": "renders/tag-section.png",
+        "source_url": "https://app.cadmind.ai/api/gallery/1138f4851823/b0816876a932/watt/renders/tag-section.png",
+        "bytes": 12085,
+        "content_type": "image/png",
+        "width": 1008,
+        "height": 756,
+        "mode": "RGB"
+      }
+    ]
+  },
+  "zoom_h5": {
+    "project_id": "02e3244c1bab",
+    "name": "Recorder to mic-stand adapter",
+    "brief": "I record my band's rehearsals with my Zoom H5 recorder and I'd like to put it on one of our microphone stands instead of the wobbly little tripod. So I need some kind of adapter: it screws onto the top of a normal mic stand where the microphone clip usually goes, and the recorder attaches to it with the screw hole on its back, the one you use for a tripod.\n\nI want the recorder pointing at the band, tilted down a bit, with the two microphones on top. I still need to see the screen and press the buttons while it's on the stand, and get the memory card out.\n\nI have a Bambu A1 mini, and I'll buy any screw you tell me to.",
+    "prompt": "I record my band's rehearsals with my Zoom H5 recorder and I'd like to put it on one of our microphone stands instead of the wobbly little tripod. So I need some kind of adapter: it screws onto the top of a normal mic stand where the microphone clip usually goes, and the recorder attaches to it with the screw hole on its back, the one you use for a tripod.\n\nI want the recorder pointing at the band, tilted down a bit, with the two microphones on top. I still need to see the screen and press the buttons while it's on the stand, and get the memory card out.\n\nI have a Bambu A1 mini, and I'll buy any screw you tell me to.",
+    "checks_met": 5,
+    "checks_total": 5,
+    "owner_display_name": "",
+    "gallery_url": "https://app.cadmind.ai/gallery/02e3244c1bab",
+    "shown_job_id": "322f1a50ec66",
+    "renders": [
+      {
+        "file": "zoom_h5_1.png",
+        "original_name": "renders/adapter-iso.png",
+        "source_url": "https://app.cadmind.ai/api/gallery/02e3244c1bab/322f1a50ec66/watt/renders/adapter-iso.png",
+        "bytes": 11224,
+        "content_type": "image/png",
+        "width": 1008,
+        "height": 756,
+        "mode": "RGB"
+      },
+      {
+        "file": "zoom_h5_2.png",
+        "original_name": "renders/adapter-section.png",
+        "source_url": "https://app.cadmind.ai/api/gallery/02e3244c1bab/322f1a50ec66/watt/renders/adapter-section.png",
+        "bytes": 10363,
+        "content_type": "image/png",
+        "width": 1008,
+        "height": 756,
+        "mode": "RGB"
+      }
+    ]
+  },
+  "epaper_frame": {
+    "project_id": "cde21522bd50",
+    "name": "E-paper wall calendar frame",
+    "brief": "I'd love one of those e-ink screens in our hallway that shows the family calendar and the weather, like the ones on Kickstarter but home-made. I've seen people use a Waveshare 7.5 inch e-paper display for this, so I bought one (black and white, the screen is roughly 17 x 11 cm, and it came with a little control board).\n\nI need a frame for it that looks like a picture frame, with the screen showing through the front and an even border all round. The electronics should hide behind the screen. It will hang on the wall on two screws that are already there (about 12 cm apart). I'll power it with a USB cable that runs down the wall to the socket below, so the cable should come out at the bottom.\n\nI'd like to take it off the wall now and then to update it. Not too thick, a couple of centimetres at most. The screen is glass so it must not get squeezed.\n\nI'll print it in black, I have a Prusa.",
+    "prompt": "I'd love one of those e-ink screens in our hallway that shows the family calendar and the weather, like the ones on Kickstarter but home-made. I've seen people use a Waveshare 7.5 inch e-paper display for this, so I bought one (black and white, the screen is roughly 17 x 11 cm, and it came with a little control board).\n\nI need a frame for it that looks like a picture frame, with the screen showing through the front and an even border all round. The electronics should hide behind the screen. It will hang on the wall on two screws that are already there (about 12 cm apart). I'll power it with a USB cable that runs down the wall to the socket below, so the cable should come out at the bottom.\n\nI'd like to take it off the wall now and then to update it. Not too thick, a couple of centimetres at most. The screen is glass so it must not get squeezed.\n\nI'll print it in black, I have a Prusa.",
+    "checks_met": 8,
+    "checks_total": 8,
+    "owner_display_name": "",
+    "gallery_url": "https://app.cadmind.ai/gallery/cde21522bd50",
+    "shown_job_id": "085c901c9917",
+    "renders": [
+      {
+        "file": "epaper_frame_1.png",
+        "original_name": "renders/cover-iso.png",
+        "source_url": "https://app.cadmind.ai/api/gallery/cde21522bd50/085c901c9917/watt/renders/cover-iso.png",
+        "bytes": 13719,
+        "content_type": "image/png",
+        "width": 1008,
+        "height": 756,
+        "mode": "RGB"
+      },
+      {
+        "file": "epaper_frame_2.png",
+        "original_name": "renders/frame-iso.png",
+        "source_url": "https://app.cadmind.ai/api/gallery/cde21522bd50/085c901c9917/watt/renders/frame-iso.png",
+        "bytes": 12777,
+        "content_type": "image/png",
+        "width": 1008,
+        "height": 756,
+        "mode": "RGB"
+      },
+      {
+        "file": "epaper_frame_3.png",
+        "original_name": "renders/cover-section.png",
+        "source_url": "https://app.cadmind.ai/api/gallery/cde21522bd50/085c901c9917/watt/renders/cover-section.png",
+        "bytes": 10404,
+        "content_type": "image/png",
+        "width": 1008,
+        "height": 756,
+        "mode": "RGB"
+      },
+      {
+        "file": "epaper_frame_4.png",
+        "original_name": "renders/frame-section.png",
+        "source_url": "https://app.cadmind.ai/api/gallery/cde21522bd50/085c901c9917/watt/renders/frame-section.png",
+        "bytes": 10259,
+        "content_type": "image/png",
+        "width": 1008,
+        "height": 756,
+        "mode": "RGB"
+      }
+    ]
+  },
+  "macbook_stand": {
+    "project_id": "3f3916830ddd",
+    "name": "Laptop vertical stand",
+    "brief": "I work with my MacBook Air closed, plugged into a big monitor, and lying flat it takes up half my desk. I'd like a stand that holds it upright on its edge, closed, next to the monitor, like a book.\n\nIt's the 13 inch one from last year. The charging cable and a USB-C cable for the monitor both plug into the left side, so I need to keep those plugged in while it's standing up. I don't want it scratched, and it shouldn't fall over if I bump the desk. I'd like to just lift it out with one hand when I leave, not pull it out of a tight slot.\n\nIt shouldn't take up much room, about the size of my hand on the desk.",
+    "prompt": "I work with my MacBook Air closed, plugged into a big monitor, and lying flat it takes up half my desk. I'd like a stand that holds it upright on its edge, closed, next to the monitor, like a book.\n\nIt's the 13 inch one from last year. The charging cable and a USB-C cable for the monitor both plug into the left side, so I need to keep those plugged in while it's standing up. I don't want it scratched, and it shouldn't fall over if I bump the desk. I'd like to just lift it out with one hand when I leave, not pull it out of a tight slot.\n\nIt shouldn't take up much room, about the size of my hand on the desk.",
+    "checks_met": 6,
+    "checks_total": 6,
+    "owner_display_name": "",
+    "gallery_url": "https://app.cadmind.ai/gallery/3f3916830ddd",
+    "shown_job_id": "0065037f878f",
+    "renders": [
+      {
+        "file": "macbook_stand_1.png",
+        "original_name": "renders/stand-iso.png",
+        "source_url": "https://app.cadmind.ai/api/gallery/3f3916830ddd/0065037f878f/watt/renders/stand-iso.png",
+        "bytes": 12117,
+        "content_type": "image/png",
+        "width": 1008,
+        "height": 756,
+        "mode": "RGB"
+      },
+      {
+        "file": "macbook_stand_2.png",
+        "original_name": "renders/stand-section.png",
+        "source_url": "https://app.cadmind.ai/api/gallery/3f3916830ddd/0065037f878f/watt/renders/stand-section.png",
+        "bytes": 10123,
+        "content_type": "image/png",
+        "width": 1008,
+        "height": 756,
+        "mode": "RGB"
+      }
+    ]
+  },
+  "headphone_hook": {
+    "project_id": "63c815a71b51",
+    "name": "Head phone hook",
+    "brief": "Design a wall-mounted hook for a headphone set, for FDM 3D printing.\n\nRequirements:\n- Overall size: 60 mm wide, 90 mm tall, 45 mm deep (maximum).\n- Mounts to a wall with two countersunk holes for M4 screws, 40 mm apart vertically.\n- A single curved arm that holds the headband of a headphone: arm width 25 mm, opening gap 20 mm, with a raised lip at the tip so the headphones cannot slide off.\n- Must hold 500 g.\n- Minimum wall thickness 3 mm. All fillets at least 2 mm.\n- Printable in one piece with no support material, in PLA, on a 0.4 mm nozzle.\n\nDeliver: a STEP file and an STL file.",
+    "prompt": "Design a wall-mounted hook for a headphone set, for FDM 3D printing.\n\nRequirements:\n- Overall size: 60 mm wide, 90 mm tall, 45 mm deep (maximum).\n- Mounts to a wall with two countersunk holes for M4 screws, 40 mm apart vertically.\n- A single curved arm that holds the headband of a headphone: arm width 25 mm, opening gap 20 mm, with a raised lip at the tip so the headphones cannot slide off.\n- Must hold 500 g.\n- Minimum wall thickness 3 mm. All fillets at least 2 mm.\n- Printable in one piece with no support material, in PLA, on a 0.4 mm nozzle.\n\nDeliver: a STEP file and an STL file.",
+    "checks_met": 7,
+    "checks_total": 7,
+    "owner_display_name": "CADmind",
+    "gallery_url": "https://app.cadmind.ai/gallery/63c815a71b51",
+    "shown_job_id": "1fad08ab68b0",
+    "renders": [
+      {
+        "file": "headphone_hook_1.png",
+        "original_name": "renders/hook-iso.png",
+        "source_url": "https://app.cadmind.ai/api/gallery/63c815a71b51/1fad08ab68b0/watt/renders/hook-iso.png",
+        "bytes": 21921,
+        "content_type": "image/png",
+        "width": 1008,
+        "height": 756,
+        "mode": "RGB"
+      },
+      {
+        "file": "headphone_hook_2.png",
+        "original_name": "renders/hook-section.png",
+        "source_url": "https://app.cadmind.ai/api/gallery/63c815a71b51/1fad08ab68b0/watt/renders/hook-section.png",
+        "bytes": 19643,
+        "content_type": "image/png",
+        "width": 1008,
+        "height": 756,
+        "mode": "RGB"
+      }
+    ]
+  },
+  "toothbrush_stand": {
+    "project_id": "ed2aee801e90",
+    "name": "toothbrush stand",
+    "brief": "This is my current toothbrush stand. As you can see it was printed to integrate 1 oral B charger smoothly. Now I need 3 chargers integrated instead of 1 and the same amount of compartments as before",
+    "prompt": "This is my current toothbrush stand. As you can see it was printed to integrate 1 oral B charger smoothly. Now I need 3 chargers integrated instead of 1 and the same amount of compartments as before",
+    "checks_met": 13,
+    "checks_total": 13,
+    "owner_display_name": "CADmind",
+    "gallery_url": "https://app.cadmind.ai/gallery/ed2aee801e90",
+    "shown_job_id": "c3459f6da9b9",
+    "renders": [
+      {
+        "file": "toothbrush_stand_1.png",
+        "original_name": "renders/lid-iso.png",
+        "source_url": "https://app.cadmind.ai/api/gallery/ed2aee801e90/c3459f6da9b9/watt/renders/lid-iso.png",
+        "bytes": 9930,
+        "content_type": "image/png",
+        "width": 1008,
+        "height": 756,
+        "mode": "RGB"
+      },
+      {
+        "file": "toothbrush_stand_2.png",
+        "original_name": "renders/stand-iso.png",
+        "source_url": "https://app.cadmind.ai/api/gallery/ed2aee801e90/c3459f6da9b9/watt/renders/stand-iso.png",
+        "bytes": 23377,
+        "content_type": "image/png",
+        "width": 1008,
+        "height": 756,
+        "mode": "RGB"
+      },
+      {
+        "file": "toothbrush_stand_3.png",
+        "original_name": "renders/lid-section.png",
+        "source_url": "https://app.cadmind.ai/api/gallery/ed2aee801e90/c3459f6da9b9/watt/renders/lid-section.png",
+        "bytes": 8489,
+        "content_type": "image/png",
+        "width": 1008,
+        "height": 756,
+        "mode": "RGB"
+      },
+      {
+        "file": "toothbrush_stand_4.png",
+        "original_name": "renders/stand-section.png",
+        "source_url": "https://app.cadmind.ai/api/gallery/ed2aee801e90/c3459f6da9b9/watt/renders/stand-section.png",
+        "bytes": 15750,
+        "content_type": "image/png",
+        "width": 1008,
+        "height": 756,
+        "mode": "RGB"
+      }
+    ]
+  }
+}

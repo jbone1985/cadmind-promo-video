@@ -1,0 +1,36 @@
+CADmind b-roll — Creative Commons Attribution (reuse allowed)
+Licenses verified via yt-dlp --dump-json "license" field:
+  "Creative Commons Attribution license (reuse allowed)"
+YouTube watch-page HTML does not reliably expose the CC badge (it is loaded in JS);
+use the yt-dlp license field as the source of truth.
+All four files are H.264 1080p MP4, remuxed/transcoded for editing.
+
+Credit each clip on screen and in the video description, with a link back to the source.
+
+1) "Raspberry Pi 5 3D Printed Case #adafruit #3DPrinting #raspberrypi"
+   by Adafruit Industries
+   Licensed under Creative Commons Attribution (reuse allowed)
+   https://www.youtube.com/watch?v=0ERqsF9wzvo
+   File: Adafruit_Industries_Raspberry_Pi_5_3D_Printed_Case_0ERqsF9wzvo.mp4
+   Suggested on-screen credit: Adafruit Industries
+
+2) "I Made My Own Headphone Stand! (3D Printing Process)"
+   by YO2BTW - Amateur Radio, Resilience & Preppers Life
+   Licensed under Creative Commons Attribution (reuse allowed)
+   https://www.youtube.com/watch?v=2f2LZJlDc5A
+   File: YO2BTW_I_Made_My_Own_Headphone_Stand_2f2LZJlDc5A.mp4
+   Suggested on-screen credit: YO2BTW
+
+3) "ZK 4KX power supply in 3D printed enclosure as a bench power supply"
+   by Uncle Duncan's Electronics Shack
+   Licensed under Creative Commons Attribution (reuse allowed)
+   https://www.youtube.com/watch?v=Jo6VrJHi-nc
+   File: Uncle_Duncans_Electronics_Shack_ZK4KX_Bench_PSU_Enclosure_Jo6VrJHi-nc.mp4
+   Suggested on-screen credit: Uncle Duncan's Electronics Shack
+
+4) "3D Printed Vertical Laptop Stand – Sleek Desk Organizer"
+   by KPrint
+   Licensed under Creative Commons Attribution (reuse allowed)
+   https://www.youtube.com/watch?v=tIXM9_x7KPg
+   File: KPrint_3D_Printed_Vertical_Laptop_Stand_tIXM9_x7KPg.mp4
+   Suggested on-screen credit: KPrint
